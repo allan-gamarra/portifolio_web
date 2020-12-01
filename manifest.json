@@ -1,26 +1,18 @@
 {
   "lang":"pt.br",
   "dir":"ltr",
-// nome do projeto
   "name":"Portfolio_Web",
-// Apelido pro projeto
   "short_name":"PW",
-// Link do GitHub page
   "start_url":"https://github.com/allan-gamarra/portifolio_web",
   "display":"minimal-ui",
-// scope é a parte final do link de cima, tipo https://zagrebd.github.io/ /DesafioFinal/
-  "scope":"/portifolio_web/",
-// Cor de fundo do site
+  "scope":"https://github.io/portifolio_web/",
   "background_color":"yellow",
-// Aqui vc escolhe a cor q mais prevalece no seu site
   "theme_color":"#f89f09",
   "orientation":"portrait",
-// Aqui é a descrição do projeto, sobre oq o site trata
   "description":"É um portfolio com algumas informações sobre mim, e alguns projetos que fiz.",
   "related_applications":[],
   "prefer_related_applications": false,
   "icons": [
-//nessa parte de icones vc tem q colocar os caminhos dos seus icones, se vc quiser vc pode usar esse mesmo soq vc muda o caminho e o nome
    {
     "src": "img/icons/android-icon-36x36.png",
     "sizes": "36x36",
